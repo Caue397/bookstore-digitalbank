@@ -1,3 +1,3 @@
 # Book Store / Digital Bank
 
-Um sistema básico para uma livraria e um banco digital utilizando JavaScript
+Um sistema básico para uma livraria e um banco digital utilizando JavaScript, onde pratiquei o uso de classes, encapsulamentos, associação, métodos estáticos e etc...
