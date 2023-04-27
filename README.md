@@ -1,2 +1,3 @@
-# bookstore-digitalbank
- BookStore e Banco Digital com JavaScript
+# Book Store / Digital Bank
+
+Um sistema básico para uma livraria e um banco digital utilizando JavaScript
